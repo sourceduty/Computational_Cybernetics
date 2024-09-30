@@ -11,6 +11,18 @@ In practice, the GPT offers technical accuracy and clarity in its explanations, 
 Overall, the GPT operates with a professional, solution-focused approach. It asks users targeted, step-by-step questions to clarify their needs and ensure that the advice and simulations provided are tailored to their specific objectives, promoting a deeper understanding of cybernetic principles and their practical applications.
 
 #
+### Self-Regulation Degrees
+
+| Degree of Self-Regulation         | Description                                                                 | Example                                           | Key Features                                         |
+|-----------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------|
+| Basic Feedback Control            | Simple feedback loop for immediate corrections.                             | Thermostat regulating temperature.                | Immediate correction, no learning.                   |
+| Adaptive Control                  | Adjusts behavior based on past performance or environmental changes.        | Machine learning adjusting weights over time.      | Learning from experience, behavior modification.     |
+| Predictive Regulation             | Uses internal models to predict future states and adjust actions.           | Predictive maintenance systems.                   | Future-oriented, proactive adjustments.              |
+| Goal-Oriented Self-Regulation     | Operates with explicit goals and plans to achieve objectives.               | Robot planning a path in an environment.           | Goal-setting, multi-step planning, optimization.     |
+| Self-Monitoring and Meta-Regulation| Monitors its own processes, self-corrects, and adapts decision-making.       | Meta-learning systems improving learning strategy. | Self-awareness of processes, recursive feedback.      |
+| Autonomous Self-Regulation        | Fully autonomous, integrates all lower levels, sets goals, predicts, adapts.| Autonomous vehicles in dynamic environments.       | Full independence, dynamic adaptation, goal-setting. |
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT/tree/main)
